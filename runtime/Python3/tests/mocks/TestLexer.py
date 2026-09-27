@@ -26,7 +26,7 @@ class TestLexer(Lexer):
     B = 2
     C = 3
 
-    channelNames = [ u"DEFAULT_TOKEN_CHANNEL", u"HIDDEN" ]
+    channelNames = [ "DEFAULT_TOKEN_CHANNEL", "HIDDEN" ]
 
     modeNames = [ "DEFAULT_MODE" ]
 
